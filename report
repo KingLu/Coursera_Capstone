@@ -1,0 +1,22 @@
+问题描述：
+在中国，银行有许多ATM机。但是这些机器的成本很高，机器的使用效率却不高。银行非常希望能知道哪些地点需要ATM，那样银行可以少安装一些机器，以降低成本。
+我们可以分析现有ATM机的周边环境数据，进行聚类分析。建立一个模型，指导银行的业务规划。
+Business Problem
+In China, banks have many ATM machines. However, the cost of these machines is high and the efficiency of the machines is not high. Banks are keen to know which locations require ATM, so banks can install fewer machines to reduce costs.
+We can analyze the surrounding environment data of existing ATM machines and perform cluster analysis. Establish a model to guide the bank's business planning.
+
+数据来源：
+以中国农业银行北京市分行为例子。
+第一、获取所有中国农业银行在北京市辖内的ATM地理位置信息;
+第二、获取每个ATM机周边1km内的商铺信息;
+第三、利用这些数据进行聚类分析和建模。
+数据来源：百度地图
+http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi
+
+Data Sources:
+Take the example of the Agricultural Bank of China Beijing Branch.
+First, obtain the geographical location information of all ATMs within the jurisdiction of the Agricultural Bank of China;
+Second, obtain the shop information within 1km around each ATM machine;
+Third, use these data for cluster analysis and modeling.
+Source: Baidu Map and Foursquare
+Http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi
