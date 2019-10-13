@@ -1,2 +1,2 @@
-address,area,city,detail,lat,lng,name,province,uid
-北京市怀柔区兴怀大街23号附近,怀柔区,北京市,1,40.327692,116.638874,交通银行ATM(怀柔兴怀大街),北京市,5bf37978ffe8599b2fe67bfe
+address,area,city,detail,lat,lng,name,province,uid,机构名称
+北京市怀柔区兴怀大街23号附近,怀柔区,北京市,1,40.327692,116.638874,交通银行ATM(怀柔兴怀大街),北京市,5bf37978ffe8599b2fe67bfe,交通银行

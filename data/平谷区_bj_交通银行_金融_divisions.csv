@@ -1,2 +1,2 @@
-address,area,city,detail,lat,lng,name,province,street_id,uid
-府前街甲31号,平谷区,北京市,1,40.14697,117.118958,交通银行ATM(府前街),北京市,a4b19e878b3e59b56f476063,a4b19e878b3e59b56f476063
+address,area,city,detail,lat,lng,name,province,street_id,uid,机构名称
+府前街甲31号,平谷区,北京市,1,40.14697,117.118958,交通银行ATM(府前街),北京市,a4b19e878b3e59b56f476063,a4b19e878b3e59b56f476063,交通银行

@@ -1,2 +1,2 @@
-address,area,city,detail,lat,lng,name,province,street_id,uid
-北京市延庆区妫水北街46号环球新意百货B2,延庆区,北京市,1,40.46715,115.982571,交通银行ATM(环球新意百货),北京市,14d0b5705b7de452213bf281,14d0b5705b7de452213bf281
+address,area,city,detail,lat,lng,name,province,street_id,uid,机构名称
+北京市延庆区妫水北街46号环球新意百货B2,延庆区,北京市,1,40.46715,115.982571,交通银行ATM(环球新意百货),北京市,14d0b5705b7de452213bf281,14d0b5705b7de452213bf281,交通银行
